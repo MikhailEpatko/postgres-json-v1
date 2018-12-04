@@ -1,0 +1,1 @@
+How to save String of JSON-object into Postgres DB.
