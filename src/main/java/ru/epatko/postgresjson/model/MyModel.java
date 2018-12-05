@@ -24,4 +24,5 @@ public class MyModel {
 
     @Type(type = "StringJsonObject")
     private String details;            //String of JSON object
+                                       //Example: "{\"value1\":1,\"value2\":\"abc\"}"
 }
